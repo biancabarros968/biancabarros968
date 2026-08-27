@@ -2,6 +2,15 @@
 
 * 🎓 Estudante de Desenvolvimento de Sistemas
 * 📊 Interessada em Análise de Dados e Automação
-* 🐍 Estudando Python e outras linguagens de programação
 * 🎯 Buscando uma oportunidade na área de Análise de Dados
-* 📧 Contato: [biancabarros968@gmail.com](mailto:biancabarros968@gmail.com)
+
+# Tecnologias que estudo
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+# Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:biancabarros968@gmail.com)
